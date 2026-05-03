@@ -1,16 +1,26 @@
-# React + Vite
+# AsTecnologías - Plataforma de Aprendizaje TIC
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+¡Bienvenido a **AsTecnologías**! Una plataforma educativa moderna diseñada específicamente para especialistas en TIC. Este proyecto ofrece una interfaz intuitiva para la gestión de cursos, visualización de métricas de aprendizaje y exploración de catálogos técnicos.
 
-Currently, two official plugins are available:
+## Características principales
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+*   **Dashboard de Usuario:** Visualización de progreso, horas de estudio y cursos activos.
+*   **Catálogo Avanzado:** Exploración de cursos con filtros por categoría (Data Analytics, Security, Office 365).
+*   **Diseño Responsive:** Optimizado para dispositivos móviles, tablets y escritorio.
+*   **Interfaz de Alta Fidelidad:** Desarrollado con React y Tailwind CSS, siguiendo estándares de diseño modernos.
+*   **Asistente IA:** Integración visual de un asistente inteligente para apoyo al estudiante.
 
-## React Compiler
+##  Tecnologías utilizadas
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+*   **Core:** [React.js](https://reactjs.org/) (Vite)
+*   **Estilos:** [Tailwind CSS](https://tailwindcss.com/)
+*   **Iconos:** [Material Symbols (Google)](https://fonts.google.com/icons)
+*   **Despliegue:** [Vercel](https://vercel.com/)
 
-## Expanding the ESLint configuration
+## Instalación y uso local
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Si deseas ejecutar este proyecto en tu máquina local, sigue estos pasos:
+
+1. **Clonar el repositorio:**
+   ```bash
+   git clone [https://github.com/MylthonDelVal/AsTecnolog-as.git](https://github.com/MylthonDelVal/AsTecnolog-as.git)
