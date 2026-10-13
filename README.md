@@ -8,15 +8,6 @@
 
 > Plataforma educativa moderna diseñada específicamente para especialistas en TIC. Ofrece una interfaz intuitiva para la gestión de cursos, visualización de métricas de aprendizaje y exploración avanzada de catálogos técnicos.
 
----
-
-## Capturas de pantalla
-
-| Dashboard | Catálogo de Cursos | Vista de Detalle / IA |
-|-----------|--------------------|-----------------------|
-| ![Dashboard](src/assets/screenshot-dashboard.png) | ![Catalogo](src/assets/screenshot-catalogo.png) | ![Asistente](src/assets/screenshot-asistente.png) |
-
----
 
 ## ¿Qué hace?
 
@@ -24,8 +15,7 @@ La plataforma centraliza la experiencia de aprendizaje técnico a través de var
 
 1. **Dashboard de Usuario** — visualización en tiempo real del progreso de estudio, horas invertidas, cursos activos y estadísticas de rendimiento.
 2. **Catálogo Avanzado** — exploración de cursos técnicos con filtros dinámicos por categoría (Data Analytics, Ciberseguridad, Office 365, Infraestructura).
-3. **Asistente IA Integrado** — interfaz inteligente simulada para brindar soporte y resolver dudas técnicas rápidas a los estudiantes durante su navegación.
-4. **Diseño Responsive y Fluido** — adaptado de forma óptima para escritorios, tablets y dispositivos móviles con una interfaz de alta fidelidad.
+3. **Diseño Responsive y Fluido** — adaptado de forma óptima para escritorios, tablets y dispositivos móviles con una interfaz de alta fidelidad.
 
 ---
 
